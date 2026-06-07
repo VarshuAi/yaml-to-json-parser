@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Structure validator translating YAML strings to JSON maps.
+  name: yaml-to-json-parser version: 1.0 type: Repository author: VarshuAi description: >   Structure validator translating YAML strings to JSON maps. primary_tech: CSS
 primary_tech: CSS
 ```
 
